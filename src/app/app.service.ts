@@ -22,7 +22,8 @@ const httpOptions = {
 @Injectable()
 export class AppService {
 
-  protected url : string = './assets/data.json/';
+  // protected url : string = './assets/data.json/';
+   protected url : string = 'https://chbcook.github.io/survey-application/src/data.json';
     // protected url : string = 'http://localhost:9080/survey-application/api/surveyapp/new?guid=23RSAN0FOAKY0Y';
   protected url2 : string = 'http://localhost:9080/survey-application/api/surveyapp';
 
