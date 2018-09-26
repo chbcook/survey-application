@@ -1,332 +1,259 @@
 [
     {
-        "campaignGuid": "23RSAN0FOAKY0Y",
-        "createdBy": 0,
-        "creationDate": "2018-08-02 09:32:00.0",
-        "customerEmail": "venu.kosaraju@mclaneco.com",
-        "description": "Do you experience any delays when calling the customer service department? (scale 1-5, 1-Least, 5- Highest)",
-        "id": 12011,
-        "lastUpdateDate": "2018-08-02 09:32:00.0",
-        "lastUpdatedBy": 0,
-        "lookupID": 12011,
+        "id": 10000,
+        "type": {
+            "id": 2,
+            "description": "Radio Button"
+        },
+        "lastUpdateDate": "2018-09-21 09:41:00.0",
+        "creationDate": "2018-09-21 09:41:00.0",
+        "description": "I receive sufficient time for rest.",
         "question_choices": [
             {
-                "description": "1",
-                "id": 12030
+                "id": 10000,
+                "description": "Strongly disagree"
             },
             {
-                "description": "2",
-                "id": 12031
+                "id": 10001,
+                "description": "Somewhat disagree"
             },
             {
-                "description": "3",
-                "id": 12032
+                "id": 10002,
+                "description": "Neither agree nor disagree"
             },
             {
-                "description": "4",
-                "id": 12033
+                "id": 10003,
+                "description": "Somewhat agree"
             },
             {
-                "description": "5",
-                "id": 12034
-            },
-            {
-                "description": "NA",
-                "id": 12035
+                "id": 10004,
+                "description": "Strongly agree"
             }
         ],
-        "siteNumber": 88286236,
-        "surveyID": 23,
-        "type": {
-            "description": "Radio Button",
-            "id": 2
-        }
+        "surveyID": 1,
+        "lookupID": 10000,
+        "createdBy": 0,
+        "siteNumber": 88284039,
+        "campaignGuid": "18GQBO9FQIX72",
+        "lastUpdatedBy": 0,
+        "customerEmail": "cc@hh.com"
     },
     {
-        "campaignGuid": "23RSAN0FOAKY0Y",
-        "createdBy": 0,
-        "creationDate": "2018-08-02 09:32:00.0",
-        "customerEmail": "venu.kosaraju@mclaneco.com",
-        "description": "How \"friendly\" is the customer service team?(scale 1-5, 1-Least, 5- Highest)",
-        "id": 12012,
-        "lastUpdateDate": "2018-08-02 09:32:00.0",
-        "lastUpdatedBy": 0,
-        "lookupID": 12012,
+        "id": 10001,
+        "type": {
+            "id": 2,
+            "description": "Radio Button"
+        },
+        "lastUpdateDate": "2018-09-21 09:41:00.0",
+        "creationDate": "2018-09-21 09:41:00.0",
+        "description": "I have enough time at home.",
         "question_choices": [
             {
-                "description": "1",
-                "id": 12036
+                "id": 10005,
+                "description": "Strongly disagree"
             },
             {
-                "description": "2",
-                "id": 12037
+                "id": 10006,
+                "description": "Somewhat disagree"
             },
             {
-                "description": "3",
-                "id": 12038
+                "id": 10007,
+                "description": "Neither agree nor disagree"
             },
             {
-                "description": "4",
-                "id": 12039
+                "id": 10008,
+                "description": "Somewhat agree"
             },
             {
-                "description": "5",
-                "id": 12040
-            },
-            {
-                "description": "NA",
-                "id": 12041
+                "id": 10009,
+                "description": "Strongly agree"
             }
         ],
-        "siteNumber": 88286236,
-        "surveyID": 23,
-        "type": {
-            "description": "Radio Button",
-            "id": 2
-        }
+        "surveyID": 1,
+        "lookupID": 10001,
+        "createdBy": 0,
+        "siteNumber": 88284039,
+        "campaignGuid": "18GQBO9FQIX72",
+        "lastUpdatedBy": 0,
+        "customerEmail": "cc@hh.com"
     },
     {
-        "campaignGuid": "23RSAN0FOAKY0Y",
-        "createdBy": 0,
-        "creationDate": "2018-08-02 09:32:00.0",
-        "customerEmail": "venu.kosaraju@mclaneco.com",
-        "description": "Do you always receive the information you need when calling customer service? (scale 1-5, 1-Least, 5- Highest)",
-        "id": 12013,
-        "lastUpdateDate": "2018-08-02 09:32:00.0",
-        "lastUpdatedBy": 0,
-        "lookupID": 12013,
+        "id": 10002,
+        "type": {
+            "id": 2,
+            "description": "Radio Button"
+        },
+        "lastUpdateDate": "2018-09-21 09:41:00.0",
+        "creationDate": "2018-09-21 09:41:00.0",
+        "description": "I have enough time with my family.",
         "question_choices": [
             {
-                "description": "1",
-                "id": 12042
+                "id": 10010,
+                "description": "Strongly disagree"
             },
             {
-                "description": "2",
-                "id": 12043
+                "id": 10011,
+                "description": "Somewhat disagree"
             },
             {
-                "description": "3",
-                "id": 12044
+                "id": 10012,
+                "description": "Neither agree nor disagree"
             },
             {
-                "description": "4",
-                "id": 12045
+                "id": 10013,
+                "description": "Somewhat agree"
             },
             {
-                "description": "5",
-                "id": 12046
-            },
-            {
-                "description": "NA",
-                "id": 12047
+                "id": 10014,
+                "description": "Strongly agree"
             }
         ],
-        "siteNumber": 88286236,
-        "surveyID": 23,
-        "type": {
-            "description": "Radio Button",
-            "id": 2
-        }
+        "surveyID": 1,
+        "lookupID": 10002,
+        "createdBy": 0,
+        "siteNumber": 88284039,
+        "campaignGuid": "18GQBO9FQIX72",
+        "lastUpdatedBy": 0,
+        "customerEmail": "cc@hh.com"
     },
     {
-        "campaignGuid": "23RSAN0FOAKY0Y",
-        "createdBy": 0,
-        "creationDate": "2018-08-02 09:32:00.0",
-        "customerEmail": "venu.kosaraju@mclaneco.com",
-        "description": "Are your service requests handled in a timely manner? (scale 1-5, 1-Least, 5- Highest)",
-        "id": 12014,
-        "lastUpdateDate": "2018-08-02 09:32:00.0",
-        "lastUpdatedBy": 0,
-        "lookupID": 12014,
+        "id": 10003,
+        "type": {
+            "id": 2,
+            "description": "Radio Button"
+        },
+        "lastUpdateDate": "2018-09-21 09:41:00.0",
+        "creationDate": "2018-09-21 09:41:00.0",
+        "description": "I drive routes that are safe.",
         "question_choices": [
             {
-                "description": "1",
-                "id": 12048
+                "id": 10015,
+                "description": "Strongly disagree"
             },
             {
-                "description": "2",
-                "id": 12049
+                "id": 10016,
+                "description": "Somewhat disagree"
             },
             {
-                "description": "3",
-                "id": 12050
+                "id": 10017,
+                "description": "Neither agree nor disagree"
             },
             {
-                "description": "4",
-                "id": 12051
+                "id": 10018,
+                "description": "Somewhat agree"
             },
             {
-                "description": "5",
-                "id": 12052
-            },
-            {
-                "description": "NA",
-                "id": 12053
+                "id": 10019,
+                "description": "Strongly agree"
             }
         ],
-        "siteNumber": 88286236,
-        "surveyID": 23,
-        "type": {
-            "description": "Radio Button",
-            "id": 2
-        }
+        "surveyID": 1,
+        "lookupID": 10003,
+        "createdBy": 0,
+        "siteNumber": 88284039,
+        "campaignGuid": "18GQBO9FQIX72",
+        "lastUpdatedBy": 0,
+        "customerEmail": "cc@hh.com"
     },
     {
-        "campaignGuid": "23RSAN0FOAKY0Y",
-        "createdBy": 0,
-        "creationDate": "2018-08-02 09:32:00.0",
-        "customerEmail": "venu.kosaraju@mclaneco.com",
-        "description": "Are you pleased with the service you receive from the customer service department? (scale 1-5, 1-Least, 5- Highest)",
-        "id": 12015,
-        "lastUpdateDate": "2018-08-02 09:32:00.0",
-        "lastUpdatedBy": 0,
-        "lookupID": 12015,
+        "id": 10004,
+        "type": {
+            "id": 2,
+            "description": "Radio Button"
+        },
+        "lastUpdateDate": "2018-09-21 09:41:00.0",
+        "creationDate": "2018-09-21 09:41:00.0",
+        "description": "My customer locations are safe.",
         "question_choices": [
             {
-                "description": "1",
-                "id": 12054
+                "id": 10020,
+                "description": "Strongly disagree"
             },
             {
-                "description": "2",
-                "id": 12055
+                "id": 10021,
+                "description": "Somewhat disagree"
             },
             {
-                "description": "3",
-                "id": 12056
+                "id": 10022,
+                "description": "Neither agree nor disagree"
             },
             {
-                "description": "4",
-                "id": 12057
+                "id": 10023,
+                "description": "Somewhat agree"
             },
             {
-                "description": "5",
-                "id": 12058
+                "id": 10024,
+                "description": "Strongly agree"
+            }
+        ],
+        "surveyID": 1,
+        "lookupID": 10004,
+        "createdBy": 0,
+        "siteNumber": 88284039,
+        "campaignGuid": "18GQBO9FQIX72",
+        "lastUpdatedBy": 0,
+        "customerEmail": "cc@hh.com"
+    },
+    {
+        "id": 10005,
+        "type": {
+            "id": 2,
+            "description": "Radio Button"
+        },
+        "lastUpdateDate": "2018-09-21 09:41:00.0",
+        "creationDate": "2018-09-21 09:41:00.0",
+        "description": "I feel safe while driving.",
+        "question_choices": [
+            {
+                "id": 10025,
+                "description": "Strongly disagree"
             },
             {
-                "description": "NA",
-                "id": 12059
+                "id": 10026,
+                "description": "Somewhat disagree"
+            },
+            {
+                "id": 10027,
+                "description": "Neither agree nor disagree"
+            },
+            {
+                "id": 10028,
+                "description": "Somewhat agree"
+            },
+            {
+                "id": 10029,
+                "description": "Strongly agree"
             }
         ],
-        "siteNumber": 88286236,
-        "surveyID": 23,
-        "type": {
-            "description": "Radio Button",
-            "id": 2
-        }
+        "surveyID": 1,
+        "lookupID": 10005,
+        "createdBy": 0,
+        "siteNumber": 88284039,
+        "campaignGuid": "18GQBO9FQIX72",
+        "lastUpdatedBy": 0,
+        "customerEmail": "cc@hh.com"
     },
     {
-        "campaignGuid": "23RSAN0FOAKY0Y",
-        "createdBy": 0,
-        "creationDate": "2018-08-02 09:32:00.0",
-        "customerEmail": "venu.kosaraju@mclaneco.com",
-        "description": "If there is one thing you could change about the customer service department, what would you suggest?",
-        "id": 12016,
-        "lastUpdateDate": "2018-08-02 09:32:00.0",
-        "lastUpdatedBy": 0,
-        "lookupID": 12016,
+        "id": 10006,
+        "type": {
+            "id": 0,
+            "description": "Text Entry"
+        },
+        "lastUpdateDate": "2018-09-21 09:41:00.0",
+        "creationDate": "2018-09-21 09:41:00.0",
+        "description": "Comments.",
         "question_choices": [
             {
-                "description": " ",
-                "id": 0
+                "id": 0,
+                "description": " "
             }
         ],
-        "siteNumber": 88286236,
-        "surveyID": 23,
-        "type": {
-            "description": "Text Area",
-            "id": 1
-        }
-    },
-    {
-        "campaignGuid": "23RSAN0FOAKY0Y",
+        "surveyID": 1,
+        "lookupID": 10006,
         "createdBy": 0,
-        "creationDate": "2018-08-02 09:32:00.0",
-        "customerEmail": "venu.kosaraju@mclaneco.com",
-        "description": "How can we better serve your store(s)?",
-        "id": 12017,
-        "lastUpdateDate": "2018-08-02 09:32:00.0",
+        "siteNumber": 88284039,
+        "campaignGuid": "18GQBO9FQIX72",
         "lastUpdatedBy": 0,
-        "lookupID": 12017,
-        "question_choices": [
-            {
-                "description": " ",
-                "id": 0
-            }
-        ],
-        "siteNumber": 88286236,
-        "surveyID": 23,
-        "type": {
-            "description": "Text Area",
-            "id": 1
-        }
-    },
-    {
-        "campaignGuid": "23RSAN0FOAKY0Y",
-        "createdBy": 0,
-        "creationDate": "2018-08-02 09:32:00.0",
-        "customerEmail": "venu.kosaraju@mclaneco.com",
-        "description": "Are we exceeding your service expectation?",
-        "id": 12018,
-        "lastUpdateDate": "2018-08-02 09:32:00.0",
-        "lastUpdatedBy": 0,
-        "lookupID": 12018,
-        "question_choices": [
-            {
-                "description": " ",
-                "id": 0
-            }
-        ],
-        "siteNumber": 88286236,
-        "surveyID": 23,
-        "type": {
-            "description": "Text Area",
-            "id": 1
-        }
-    },
-    {
-        "campaignGuid": "23RSAN0FOAKY0Y",
-        "createdBy": 0,
-        "creationDate": "2018-08-02 09:32:00.0",
-        "customerEmail": "venu.kosaraju@mclaneco.com",
-        "description": "Are our drivers courteous and responsive to your requests?",
-        "id": 12019,
-        "lastUpdateDate": "2018-08-02 09:32:00.0",
-        "lastUpdatedBy": 0,
-        "lookupID": 12019,
-        "question_choices": [
-            {
-                "description": " ",
-                "id": 0
-            }
-        ],
-        "siteNumber": 88286236,
-        "surveyID": 23,
-        "type": {
-            "description": "Text Area",
-            "id": 1
-        }
-    },
-    {
-        "campaignGuid": "23RSAN0FOAKY0Y",
-        "createdBy": 0,
-        "creationDate": "2018-08-02 09:32:00.0",
-        "customerEmail": "venu.kosaraju@mclaneco.com",
-        "description": "Would you recommend McLane as a grocery supplier?",
-        "id": 12020,
-        "lastUpdateDate": "2018-08-02 09:32:00.0",
-        "lastUpdatedBy": 0,
-        "lookupID": 12020,
-        "question_choices": [
-            {
-                "description": " ",
-                "id": 0
-            }
-        ],
-        "siteNumber": 88286236,
-        "surveyID": 23,
-        "type": {
-            "description": "Text Area",
-            "id": 1
-        }
+        "customerEmail": "cc@hh.com"
     }
 ]
